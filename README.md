@@ -1,8 +1,10 @@
 Titanic Dataset Analysis
+
 Overview
 This repository contains a comprehensive exploratory data analysis (EDA) of the Titanic dataset. The primary objective is to investigate passenger characteristics, handle missing data, and uncover underlying patterns and correlations related to passenger survival rates using Python.
 
 Dataset Description
+
 The dataset contains information on a subset of the Titanic passengers. Key features include:
 
 -PassengerId: Unique identifier for each passenger
@@ -30,6 +32,7 @@ The dataset contains information on a subset of the Titanic passengers. Key feat
 -Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 Project Workflow
+
 1.Data Loading and Inspection: Importing the dataset and examining basic data structures, types, and summary statistics.
 
 2.Data Cleaning: Identifying and handling missing values across relevant columns such as age and cabin data.
@@ -39,6 +42,7 @@ Project Workflow
 4.Data Visualization: Generating statistical plots and distribution charts to visually represent relationships between features and survival outcomes.
 
 Requirements
+
 To run the analysis notebook, ensure you have the following Python libraries installed:
 
 -Python 3.x
@@ -52,6 +56,7 @@ To run the analysis notebook, ensure you have the following Python libraries ins
 -Seaborn
 
 Usage
+
 Clone the repository and open the Jupyter Notebook to explore the code and analysis steps in detail:
 
 Bash
