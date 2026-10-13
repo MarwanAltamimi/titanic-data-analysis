@@ -1,6 +1,7 @@
 Titanic Dataset Analysis
 
 Overview
+
 This repository contains a comprehensive exploratory data analysis (EDA) of the Titanic dataset. The primary objective is to investigate passenger characteristics, handle missing data, and uncover underlying patterns and correlations related to passenger survival rates using Python.
 
 Dataset Description
